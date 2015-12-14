@@ -255,3 +255,18 @@ a.dropdown-toggle.hvr-sweep-to-bottom {
 	background-color: #AC2820;
     border-color: #AC2820;
 }
+
+
+
+.borderow{
+	border-right: 3px solid #D45A2C;
+	border-top: 3px solid #D45A2C;
+	border-left: 3px solid #D45A2C;
+	background: #fff;
+}
+.borderow2{
+	border-right: 3px solid #D45A2C;
+	border-bottom: 3px solid #D45A2C;
+	border-left: 3px solid #D45A2C;
+	background: #fff;
+}
